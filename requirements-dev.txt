@@ -24,6 +24,6 @@ pylint-strict-informational ==0.1
 
 python-lsp-server
 
-pytype ==2021.9.9
+pytype ==2021.11.2
 
 tox ~=3.14
